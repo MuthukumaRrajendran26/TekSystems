@@ -173,7 +173,6 @@ The agent acts as an intelligent coordinator that knows when and how to use each
 
 ---
 
-**Ready to start?** Run `demo.ipynb` and explore the intelligent document analysis capabilities!
 
 ## 🚀 Next Steps: Advanced LLM Integration
 **Future Enhancements with Large Language Models**
@@ -206,3 +205,7 @@ Code Generation: Let the agent write and execute analysis scripts based on user 
 
 Integration with enterprise LLM platforms (Azure OpenAI, AWS Bedrock)
 Multi-user systems with role-based access and personalized agent behaviors
+
+
+---
+**Ready to start?** Run `demo.ipynb` and explore the intelligent document analysis capabilities!
