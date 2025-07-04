@@ -6,13 +6,22 @@ An intelligent document analysis system that combines traditional NLP with moder
 
 ### Installation
 ```bash
+# Clone the repo
+git clone https://github.com/MuthukumaRrajendran26/TekSystems.git
+
+# create a venv
+python -m venv agent_ai
+
+# Activate the venv
+agent_ai/Scripts/activate
+
 # Install dependencies
 pip install -r requirements.txt
 
 # Download language model
 python -m spacy download en_core_web_sm
 
-Run the demo.ipynb
+Run all cells in the demo.ipynb
 ```
 
 
