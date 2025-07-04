@@ -11,12 +11,10 @@ pip install -r requirements.txt
 
 # Download language model
 python -m spacy download en_core_web_sm
+
+Run the demo.ipynb
 ```
 
-### Run the System
-```python
-#### Run all the cells in the demo.ipynb
-```
 
 ## 📊 Dataset Source
 
