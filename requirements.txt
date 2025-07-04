@@ -1,0 +1,13 @@
+nltk 
+spacy 
+scikit-learn 
+networkx 
+pandas 
+numpy 
+matplotlib 
+textstat
+transformers 
+torch 
+sentence-transformers
+seaborn
+pypdf
